@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "dillip sabat1",
+      "email": "dillip@gmail.com",
+      "mobile": 9642816601,
+      "address": "nandika",
+      "services": "icem"
+    },
+    {
+      "id": 2,
+      "name": "KFC1",
+      "email": "kfc@gmail.com",
+      "mobile": 6372750177,
+      "address": "odisha12",
+      "services": "coffee, ice cream"
+    },
+    {
+      "id": 3,
+      "name": "Deepak Kumar",
+      "email": "deepak@gmail.com",
+      "mobile": 9642816601,
+      "address": "Ashok Chamber",
+      "services": "coffee"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "services": null
+    }
+  ],
+  "signup": [
+    {
+      "name": "dillip",
+      "mobile": 6372750177,
+      "email": "dillip@gmail.com",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "name": "papu",
+      "mobile": 6372234567,
+      "email": "papu@gmail.com",
+      "password": "papu",
+      "id": 2
+    },
+    {
+      "name": "Dillip sabat",
+      "mobile": 6372750177,
+      "email": "dillipsabat@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "dillip@gmail.com",
+      "mobile": 6372750177,
+      "email": "dillipsabat@gmail.com",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "name": "rahul",
+      "mobile": 1234567890,
+      "email": "rahul@gmail.com",
+      "password": "rahul",
+      "id": 5
+    },
+    {
+      "name": "Dillip sabat",
+      "mobile": 9642816601,
+      "email": "dillipsabat@gmail.com",
+      "password": "dillipsabat",
+      "id": 6
+    },
+    {
+      "name": "ashish sabat",
+      "mobile": 1234567890,
+      "email": "ashishsabat@gmail.com",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "name": "lucky",
+      "mobile": 3456789012,
+      "email": "lucky@gmail.com",
+      "password": "lucky12",
+      "id": 8
+    },
+    {
+      "name": "dillip",
+      "mobile": 9642816601,
+      "email": "dillip@gmail.com",
+      "password": "dillip",
+      "id": 9
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
